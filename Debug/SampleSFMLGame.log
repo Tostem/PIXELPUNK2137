@@ -1,0 +1,3 @@
+﻿  game_main.cpp
+C:\Users\Ja\Desktop\C++\SMFL\SampleSFMLGame\SampleSFMLGame\game_main.cpp(92,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SampleSFMLGame.vcxproj -> C:\Users\Ja\Desktop\C++\SMFL\SampleSFMLGame\Debug\SampleSFMLGame.exe
